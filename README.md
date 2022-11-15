@@ -21,7 +21,7 @@
 <h2>Welcome! <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="36"></h2>
 
 ### Hi there, I'm <a href="https://t.me/AnimeClubNetwork">Anime Club Network</a> 👋
-[![https://telegra.ph/file/b69725257d6e3a1256dac.jpg](https://t.me/AnimeClubNetwork)
+(https://t.me/AnimeClubNetwork)
 - Hi there! I'm ANIME CLUB NETWORK, a biology student and self taught programmer from India.
 - I'm currently learning Python, PHP and web development.
 - Programming is a kind of blessing for me.
