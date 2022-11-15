@@ -20,18 +20,18 @@
 
 <h2>Welcome! <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="36"></h2>
 
-### Hi there, I'm <a href="https://toonshub.xyz">ToonsHub</a> 👋
-[![https://t.me/AnimeClubNetwork](https://img.shields.io/website?label=toonshub.xyz&style=for-the-badge&url=https%3A%2F%2Fexample.com)](https://t.me/AnimeClubNetwork)
-- Hi there! I'm ToonsHub, a biology student and self taught programmer from India.
+### Hi there, I'm <a href="https://t.me/AnimeClubNetwork">Anime Club Network</a> 👋
+[![https://t.me/AnimeClubNetwork](https://t.me/AnimeClubNetwork)
+- Hi there! I'm ANIME CLUB NETWORK, a biology student and self taught programmer from India.
 - I'm currently learning Python, PHP and web development.
 - Programming is a kind of blessing for me.
 - Apart from programming related stuffs, I love watching anime & reading novels in free time.
 
 <h2>Stuffs I've built<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"</img></h2>
 
-- [atozcartoonist-bypasser](https://github.com/dakshy/atozcartoonist-bypasser) Python script for bypassing atozcartoonist.com poorly developed site and get direct links.
-- [droplink-bot](https://github.com/dakshy/droplink-bot) Droplink URL Shortener Bot, deployable to Heroku and Railway.
-- [ServerlessTelegram](https://github.com/dakshy/ServerlessTelegram) A telegram bot which can be hosted on Vercel or any other serverless platform.
+- [atozcartoonist-bypasser](https://github.com/masterdhanu) Python script for bypassing atozcartoonist.com poorly developed site and get direct links.
+- [droplink-bot](https://github.com/masterdhanu/droplink-bot) Droplink URL Shortener Bot, deployable to Heroku and Railway.
+- [ServerlessTelegram](https://github.com/masterdhanu/ServerlessTelegram) A telegram bot which can be hosted on Vercel or any other serverless platform.
 
 <h2>GitHub Stats<img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="50"</img></h2>
 
