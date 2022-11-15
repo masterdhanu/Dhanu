@@ -21,7 +21,7 @@
 <h2>Welcome! <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="36"></h2>
 
 ### Hi there, I'm <a href="https://t.me/AnimeClubNetwork">Anime Club Network</a> 👋
-[![https://t.me/AnimeClubNetwork](https://t.me/AnimeClubNetwork)
+[![https://telegra.ph/file/b69725257d6e3a1256dac.jpg](https://t.me/AnimeClubNetwork)
 - Hi there! I'm ANIME CLUB NETWORK, a biology student and self taught programmer from India.
 - I'm currently learning Python, PHP and web development.
 - Programming is a kind of blessing for me.
@@ -29,7 +29,7 @@
 
 <h2>Stuffs I've built<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"</img></h2>
 
-- [atozcartoonist-bypasser](https://github.com/masterdhanu) Python script for bypassing atozcartoonist.com poorly developed site and get direct links.
+- [atozcartoonist-bypasser](https://github.com/masterdhanu) Python script for bypassing poorly developed site and get direct links.
 - [droplink-bot](https://github.com/masterdhanu/droplink-bot) Droplink URL Shortener Bot, deployable to Heroku and Railway.
 - [ServerlessTelegram](https://github.com/masterdhanu/ServerlessTelegram) A telegram bot which can be hosted on Vercel or any other serverless platform.
 
